@@ -1,6 +1,6 @@
 ply
 format ascii 1.0
-element vertex 102167
+element vertex 102168
 property float x
 property float y
 property float z
@@ -8,6 +8,7 @@ property uchar red
 property uchar green
 property uchar blue
 end_header
+-0.271217 0.057545 0.877339 7 7 7
 -0.267528 0.043344 0.869428 121 121 121
 -0.267761 0.044627 0.870186 115 115 115
 -0.267995 0.045912 0.870945 85 85 85
